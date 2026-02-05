@@ -12,7 +12,7 @@ I’m a versatile **Full Stack Developer** from Indonesia with a passion for bui
 
 - 🛠️ Currently deep-diving into **Next.js** and **Laravel** ecosystems.
 - 🐧 Experienced in managing **Ubuntu** servers, Nginx, and automation with PM2.
-- 🌐 Managing my personal projects over at [web.mirugo.id](https://web.mirugo.id).
+- 🌐 Managing my personal projects over at [personal-website](https://reinalddy.vercel.app/).
 - ☕ Powered by curiosity and a good cup of coffee.
 
 ---
